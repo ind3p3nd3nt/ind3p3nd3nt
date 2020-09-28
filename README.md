@@ -37,13 +37,13 @@
 ##### My plan is to marry her and live happy for the rest of my life.
 ## Skype
 #### independentt911
-[My Youtube Channel](https://is.gd/MyYouTube)
-[My Old Twitter](https://twitter.com/independentcod)
-[My New Twitter](https://twitter.com/ind3p3nd3nt_Git)
-[My Pastebin](https://pastebin.com/u/independentt)
-[My Development Page](https://ind3p3nd3nt.github.io)
-[My GitLab Profile](https://gitlab.com/ind3p3nd3nt)
-[Follow Me On FaceBook](https://fb.me/remi.girard2)
+## [My Youtube Channel](https://is.gd/MyYouTube)
+## [My Old Twitter](https://twitter.com/independentcod)
+## [My New Twitter](https://twitter.com/ind3p3nd3nt_Git)
+## [My Pastebin](https://pastebin.com/u/independentt)
+## [My Development Page](https://ind3p3nd3nt.github.io)
+## [My GitLab Profile](https://gitlab.com/ind3p3nd3nt)
+## [Follow Me On FaceBook](https://fb.me/remi.girard2)
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ind3p3nd3nt">
 </a>

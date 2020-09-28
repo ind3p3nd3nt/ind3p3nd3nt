@@ -35,3 +35,6 @@
 ##### How I found her: A fake account started to flirt me and I found her real account.
 ##### Love at first sight.
 ##### My plan is to marry her and live happy for the rest of my life.
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ind3p3nd3nt">
+</a>

@@ -44,6 +44,7 @@
 ## [My Development Page](https://ind3p3nd3nt.github.io)
 ## [My GitLab Profile](https://gitlab.com/ind3p3nd3nt)
 ## [Follow Me On FaceBook](https://fb.me/remi.girard2)
+## [Join My Discord Channel](https://discord.gg/gGcWeas)
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ind3p3nd3nt">
 </a>

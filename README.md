@@ -11,7 +11,7 @@
 ##### My parents divorced when I was 8 years old.
 ##### I am a confirmed Christian in St-Eugene Church.
 ##### 
-##### As a teenager, I was the clown at school and my grades were higly affected.
+##### As a teenager, I was the clown at school and my grades were highly affected.
 ##### I left my parents home at the age of 16 years old.
 ##### My brothers and my friends helped me a lot during all my life.
 ##### 

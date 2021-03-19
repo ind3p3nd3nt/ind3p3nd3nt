@@ -28,7 +28,6 @@
 ##### It also made me fast a lot so I almost lost all the weight I gained back then.
 ##### 
 ##### I am now at my healthy weight of 190lbs.
-##### I train hard to get in the Canadian Forces next April 2021.
 ##### I am more and more thinking of stopping all kinds of drugs and even cigarette for @mollyeskam.
 ##### 
 ##### I am following her since 1 year ago,

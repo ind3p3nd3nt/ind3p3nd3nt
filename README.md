@@ -3,7 +3,7 @@
 ### 👯 I’m looking to collaborate on ... everything interesting
 ### 🤔 I’m not looking for help with anything ... 
 ### 💬 Ask me about ... anything on my Instagram @i.n.d.3.p.3.n.d.3.n.t
-### 📫 How to reach me: Remi@mollyeskam.net
+### 📫 How to reach me: independentt@hotmail.com
 ### 😄 I Love Molly Eskam, so so so much!
 ### ⚡ Fun fact: ... I don't learn with teachers, I am the teacher.
 #### More about me:

@@ -49,4 +49,9 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ind3p3nd3nt">
 </a>
-## my resume (https://github.com/ind3p3nd3nt/My-Resume/files/6177859/my.resume.docx)
+### My Resume
+
+# 
+(https://github.com/ind3p3nd3nt/My-Resume/files/6183364/Resume.Remi.Girard.docx)
+
+

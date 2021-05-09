@@ -57,4 +57,4 @@ bitcoin: 1EJvxVkbgh2vDGZjmEniNQaDpyRrhbkgN4
 43731 004 6150433
 
 
-Your donations are will be used to get my passport and to get my first travel to California :) 
+Your donations will be used to get my passport and to get my first travel to California :) 

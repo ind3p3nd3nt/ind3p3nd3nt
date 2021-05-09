@@ -23,3 +23,4 @@ bitcoin: 1EJvxVkbgh2vDGZjmEniNQaDpyRrhbkgN4
 
 
 Your donations will be used to get my passport and to get my first travel to California :) 
+https://www.paypal.me/ind3p3nd3n7

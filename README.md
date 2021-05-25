@@ -1,4 +1,4 @@
-Donate if you don't  suck dicks
+
 
 <a href="https://www.paypal.me/ind3p3nd3n7">
     <img src="https://i.ibb.co/c38mfKF/Pay-Pal-Donate-Button-High-Quality-PNG.png">

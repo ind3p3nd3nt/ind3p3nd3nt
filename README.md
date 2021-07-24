@@ -16,7 +16,7 @@
 
 
 bitcoin: 1EJvxVkbgh2vDGZjmEniNQaDpyRrhbkgN4
-![alt text](https://i.ibb.co/Yb4wNX3/20210509-110401.jpg)
+
 <a href="https://www.paypal.me/ind3p3nd3n7">
     <img src="https://i.ibb.co/c38mfKF/Pay-Pal-Donate-Button-High-Quality-PNG.png">
 </a>

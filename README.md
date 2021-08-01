@@ -4,6 +4,7 @@
 #### independentt911
 ## Steam
 ![Steam Profile](https://badges.steamprofile.com/profile/default/steam/76561197978927604.png)
+## [My Instagram](https://www.instagram.com/i.n.d.3.p.3.n.d.3.n.t/)
 ## [My Youtube Channel](https://youtu.be/o3d6KrIhpTs)
 ## [My Old Twitter](https://twitter.com/independentcod)
 ## [My New Twitter](https://twitter.com/ind3p3nd3n7)

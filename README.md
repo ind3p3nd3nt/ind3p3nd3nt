@@ -17,3 +17,7 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ind3p3nd3nt">
 </a>
+
+## Donate 
+### bitcoin:1QFXPnsqPEfQTH5J4Jrim1ArBmLn7Gduvs
+![bitcoin qr code](https://raw.githubusercontent.com/ind3p3nd3nt/ind3p3nd3nt/master/Screenshot_20211109-025215_Chrome.jpg)

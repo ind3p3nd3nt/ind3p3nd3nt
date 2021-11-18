@@ -2,6 +2,7 @@
 ## [My TikTok](https://is.gd/ind3p3nd3nt)
 ## [My LinkedIn](https://linkedin.com/in/ind3p3nd3nt)
 ## [My FaceBook](https://fb.me/remi.girard2)
+## [My Instagram](https://instagram.com/ind3p3nd3nt777)
 ## [My Youtube Channel](https://youtu.be/o3d6KrIhpTs)
 ## [My Twitter](https://twitter.com/ind3p3nd3n7)
 ## [My Pastebin](https://pastebin.com/u/independentt)

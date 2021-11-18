@@ -1,10 +1,10 @@
-
-## [Follow Me On FaceBook](https://fb.me/remi.girard2)
-## [My Youtube Channel](https://youtu.be/o3d6KrIhpTs)
-## [My Old Twitter](https://twitter.com/independentcod)
-## [My New Twitter](https://twitter.com/ind3p3nd3n7)
-## [My Pastebin](https://pastebin.com/u/independentt)
 ## [My GitLab Profile](https://gitlab.com/ind3p3nd3nt)
+## [My TikTok](https://is.gd/ind3p3nd3nt)
+## [My LinkedIn](https://linkedin.com/in/ind3p3nd3nt)
+## [My FaceBook](https://fb.me/remi.girard2)
+## [My Youtube Channel](https://youtu.be/o3d6KrIhpTs)
+## [My Twitter](https://twitter.com/ind3p3nd3n7)
+## [My Pastebin](https://pastebin.com/u/independentt)
 ## [Join My Discord Channel](https://discord.gg/gGcWeas)
 
 

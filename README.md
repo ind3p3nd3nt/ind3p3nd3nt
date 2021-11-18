@@ -20,4 +20,4 @@
 
 ## Donate 
 ### bitcoin:1QFXPnsqPEfQTH5J4Jrim1ArBmLn7Gduvs
-![bitcoin qr code](https://raw.githubusercontent.com/ind3p3nd3nt/ind3p3nd3nt/master/Screenshot_20211109-025215_Chrome.jpg)
+### PayPal: remigirard@mail.com

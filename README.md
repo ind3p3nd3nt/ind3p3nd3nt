@@ -22,3 +22,6 @@
 ## Donate 
 ### bitcoin:1QFXPnsqPEfQTH5J4Jrim1ArBmLn7Gduvs
 ### PayPal: remigirard@mail.com
+
+
+[![Gitter](https://badges.gitter.im/ind3p3nd3nt/community.svg)](https://gitter.im/ind3p3nd3nt/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)

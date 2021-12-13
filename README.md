@@ -7,7 +7,8 @@
 ## [My Twitter](https://twitter.com/ind3p3nd3n7)
 ## [My Pastebin](https://pastebin.com/u/independentt)
 ## [Join My Discord Channel](https://discord.gg/gGcWeas)
-
+## [My Snapchat](https://www.snapchat.com/add/ind3p3nd3n7?share_id=5L5nW48WlXg&locale=en-US)
+## [Molly Eskam Snapchat](https://www.snapchat.com/add/mollyeskam98?share_id=5L5nW48WlXg&locale=en-US)
 
 
 ## Stats

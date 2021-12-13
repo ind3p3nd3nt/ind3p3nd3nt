@@ -19,9 +19,10 @@
     <img src="https://komarev.com/ghpvc/?username=ind3p3nd3nt">
 </a>
 
+[![Gitter](https://badges.gitter.im/ind3p3nd3nt/community.svg)](https://gitter.im/ind3p3nd3nt/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## Donate 
 ### bitcoin:1QFXPnsqPEfQTH5J4Jrim1ArBmLn7Gduvs
-### PayPal: remigirard@mail.com
-
-
-[![Gitter](https://badges.gitter.im/ind3p3nd3nt/community.svg)](https://gitter.im/ind3p3nd3nt/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+### Etherum:0xf085266657bde45ee3f4321fd79b8d4468db68a7
+### XMR(Monero):87jta7ZoJMd8jwLGkheUWU4AC5qi1Fxa6EC2uTpivQrGK9Rdnr2xa4AMqHEdea9qgYgFAdmKgKKW15o5qFHuQHwW67N1Wny
+### PayPal: remigirard@mail.com 
